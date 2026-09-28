@@ -10,7 +10,7 @@ I use this profile for personal projects, experiments and some older work I want
 
 A reference architecture for real-time voice agents built around WebRTC, GPT-Live, LangGraph and OpenTelemetry.
 
-### Smart Travel Assistant
+### [Smart Travel Assistant](https://github.com/savbiz/smart-travel-assistant)
 
 My Bachelor's thesis project from 2014: a knowledge-based expert system for personalized tourism recommendations on Android.
 
