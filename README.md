@@ -1,16 +1,21 @@
-## Hi there 👋
+# Savino Bizzoca
 
-<!--
-**savbiz/savbiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer working on AI systems, backend engineering and real-time applications.
 
-Here are some ideas to get you started:
+I use this profile for personal projects, experiments and some older work I want to keep publicly accessible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### [Voice Delegate](https://github.com/savbiz/voice-delegate)
+
+A reference architecture for real-time voice agents built around WebRTC, GPT-Live, LangGraph and OpenTelemetry.
+
+### Smart Travel Assistant
+
+My Bachelor's thesis project from 2014: a knowledge-based expert system for personalized tourism recommendations on Android.
+
+[Read the thesis on Zenodo](https://doi.org/10.5281/zenodo.23012254)
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/savino-bizzoca/) · [ORCID](https://orcid.org/0009-0001-5562-8351)
